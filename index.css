@@ -1026,9 +1026,6 @@ footer a i{
 
 /* Media Query for Tablets (portrait and smaller) */
 @media (max-width: 768px) {
-    header {
-        padding: 12px 5%;
-    }
 
     .navlist {
         flex-direction: column;
@@ -1129,7 +1126,7 @@ footer a i{
 
     .home-content, .home-image {
         max-width: 100%;
-        margin: 0 auto;
+        margin: 30px auto;
     }
 
     .btn-box {
